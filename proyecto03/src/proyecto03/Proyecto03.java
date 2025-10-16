@@ -15,6 +15,7 @@ public class Proyecto03 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("El IDE que se utilizará es Apache NetBeans y los lenguajes serán Java y Python");
     }
     
 }
